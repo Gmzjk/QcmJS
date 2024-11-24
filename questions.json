@@ -1,0 +1,77 @@
+{
+    "quizTitle": "Quiz sur la culture générale",
+    "quizDescription": "Testez vos connaissances en culture générale avec ce quiz.",
+    "questions": [
+      {
+        "questionId": 1,
+        "questionText": "Quelle est la capitale de la France ?",
+        "options": [
+          {
+            "optionId": "A",
+            "optionText": "Berlin"
+          },
+          {
+            "optionId": "B",
+            "optionText": "Madrid"
+          },
+          {
+            "optionId": "C",
+            "optionText": "Paris"
+          },
+          {
+            "optionId": "D",
+            "optionText": "Rome"
+          }
+        ],
+        "correctAnswer": "C"
+      },
+      {
+        "questionId": 2,
+        "questionText": "Qui a écrit 'Les Misérables' ?",
+        "options": [
+          {
+            "optionId": "A",
+            "optionText": "Victor Hugo"
+          },
+          {
+            "optionId": "B",
+            "optionText": "Émile Zola"
+          },
+          {
+            "optionId": "C",
+            "optionText": "Gustave Flaubert"
+          },
+          {
+            "optionId": "D",
+            "optionText": "Marcel Proust"
+          }
+        ],
+        "correctAnswer": "A"
+      },
+      {
+        "questionId": 3,
+        "questionText": "Quelle est la plus grande planète du système solaire ?",
+        "options": [
+          {
+            "optionId": "A",
+            "optionText": "Terre"
+          },
+          {
+            "optionId": "B",
+            "optionText": "Mars"
+          },
+          {
+            "optionId": "C",
+            "optionText": "Jupiter"
+          },
+          {
+            "optionId": "D",
+            "optionText": "Saturne"
+          }
+        ],
+        "correctAnswer": "C"
+      }
+    ],
+    "totalQuestions": 3,
+    "passScore": 2
+  }
